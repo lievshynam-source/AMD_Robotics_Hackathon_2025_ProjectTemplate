@@ -25,14 +25,14 @@ AMD_Robotics_Hackathon_2025_ProjectTemplate-main/
 ├── README.md
 ├── mission1
 │   ├── code
-│   │   └── dummy
+│   │   └── <code and script>
 │   └── wandb
-│       └── dummy
+│       └── <latest run directory copied from wandb of your training job>
 └── mission2
     ├── code
-    │   └── dummy
+    │   └── <code and script>
     └── wandb
-        └── dummy
+        └── <latest run directory copied from wandb of your training job>
 ```
 
 
@@ -61,3 +61,5 @@ outputs/train/smolvla_so101_2cube_30k_steps/wandb/
     └── tmp
         └── code
 ```
+
+NOTE: the `latest-run` is the soft link, please make sure to copy the real target directory it linked with all sub dirs and files.
