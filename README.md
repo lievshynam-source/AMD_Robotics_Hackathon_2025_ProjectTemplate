@@ -3,29 +3,29 @@
 
 ## Team Information
 
-**Team:** Your team number, name of your team, and members
+**Team:** *Your team number, name of your team, and members*
 
-**Summary:** A brief description of your work
+**Summary:** *A brief description of your work*
 
 
 ## Judging Criteria
 
 ### 1. Mission 2 Description (10 points)
-Real world application of your mission
+- *Real world application of your mission*
 
 ### 2. Creativity (30 points)
-What is novel or unique in your approach?
-Innovation in design, methodology, or application
+- *What is novel or unique in your approach?*
+- *Innovation in design, methodology, or application*
 
 ### 3. Technical implementations (20 points)
-Teleoperation / Dataset capture 
-Training 
-Inference
+- *Teleoperation / Dataset capture*
+- *Training*
+- *Inference*
 
 ### 4. Ease of use (10 points)
-How generalizable is your implementation across tasks or environments?
-Flexibility and adaptability of the solution
-Types of commands or interfaces needed to control the robot
+- *How generalizable is your implementation across tasks or environments?*
+- *Flexibility and adaptability of the solution*
+- *Types of commands or interfaces needed to control the robot*
 
 
 ## Code submission
@@ -76,8 +76,9 @@ outputs/train/smolvla_so101_2cube_30k_steps/wandb/
 
 
 ## Additional Links
-For example, you can provide links to:
--	Link to a video of your robot performing the task
--	URL of your dataset in Hugging Face
--	URL of your model in Hugging Face
--	Link to a blog post describing your work
+*For example, you can provide links to:*
+
+- *Link to a video of your robot performing the task*
+- *URL of your dataset in Hugging Face*
+- *URL of your model in Hugging Face*
+- *Link to a blog post describing your work*
