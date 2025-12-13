@@ -4,7 +4,7 @@
 
 ## Team Information
 
-**Team:** *Your team number, name of your team, and members*
+**Team:** Maryna Lievshyna, Afonso Diela, Oliver Fuchs 
 
 **Summary:** *A brief description of your work*
 
