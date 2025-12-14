@@ -76,7 +76,8 @@ Easy for non-technical facilitators: the “game rules” are the interface.
 ## Additional Links
 *For example, you can provide links to:*
 
-- *HF link for dataset: https://huggingface.co/datasets/afondiel/so101_dice_drawing*
+- HF link for dataset: https://huggingface.co/datasets/afondiel/so101_dice_drawing
+- The model : the checkpoint are ~1GB their in our AMD cloud account **Team21**
 
 
 ## Code submission
