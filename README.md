@@ -18,18 +18,20 @@ Team name T-800
 ## Submission Details
 
 ### 1. Mission Description
-- *Many children struggle with social interaction—not only children with autism or social anxiety, but also introverted children who find peer interaction overwhelming. Instead of being left alone or relying on imaginary friends, our mission explores how a robot can act as a calm, predictable play partner that supports safe social engagement.*
+- *Our mission explores how robots can support social engagement for children who struggle with peer interaction, including children with autism, social anxiety, or introverted traits. When social environments feel overwhelming, a robot can offer a calm, predictable, and non-judgmental presence.
+
+Through simple co-creative interactions, we investigate how human–robot play can create safe moments of connection, helping children engage, express themselves, and gradually build confidence in shared activities.*
 
 ### 2. Creativity
 - *What is novel or unique in your approach?*
-	•	A co-creative interaction (not a task robot): the robot and child build something together through turn-taking.
-	•	Physical, sensory-friendly medium: brush + ink drawing is softer and more expressive than digital UI.
-	•	Unpredictability by design: real dice makes each round different, keeping the interaction playful and real.
-	•	A demo that is instantly understandable at the table: “roll → robot draws → human draws → shared outcome.
+- A co-creative interaction (not a task robot): the robot and child build something together through turn-taking.
+- Physical, sensory-friendly medium: brush + ink drawing is softer and more expressive than digital UI.
+- Unpredictability by design: real dice makes each round different, keeping the interaction playful and real.
+- A demo that is instantly understandable at the table: “roll → robot draws → human draws → shared outcome.
   
 - *Innovation in design, methodology, or application*
- •	We treat the robot as a social interaction scaffold (predictable partner), not just an automation tool.
- •	The interaction is designed for calmness + trust, aligned with therapeutic principles (structure, repetition, safe feedback).
+- We treat the robot as a social interaction scaffold (predictable partner), not just an automation tool.
+- The interaction is designed for calmness + trust, aligned with therapeutic principles (structure, repetition, safe feedback).
 
 ### 3. Technical implementations
 - *Teleoperation / Dataset capture*
