@@ -16,6 +16,7 @@ Team name T-800
 *< [Images or video demonstrating your project](https://drive.google.com/file/d/1CRgT-3jYfOybKNrcDjm-S0Md_wfhv_Qg/view?usp=sharing) >*
 
 ## Submission Details
+![IMG_4272](https://github.com/user-attachments/assets/2dd2c068-74ea-4fbf-8627-e0ebcddab7cf)
 
 ### 1. Mission Description
 *Our mission explores how robots can support social engagement for children who struggle with peer interaction, including children with autism, social anxiety, or introverted traits. When social environments feel overwhelming, a robot can offer a calm, predictable, and non-judgmental presence.
