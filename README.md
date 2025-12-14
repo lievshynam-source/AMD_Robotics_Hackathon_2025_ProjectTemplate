@@ -50,8 +50,14 @@ Through simple co-creative interactions, we investigate how human–robot play c
 
 ### 4. Ease of use
 - *How generalizable is your implementation across tasks or environments?*
+The pipeline can generalize to other turn-taking co-creation tasks (drawing shapes, patterns, collaborative art prompts).
+The interaction is modular: dice rule → target pattern → robot draws.
 - *Flexibility and adaptability of the solution*
+Difficulty can scale: simple lines → shapes → symbols → collaborative drawings.
+Can be adapted to different contexts (therapy session, classroom activity, home play).
 - *Types of commands or interfaces needed to control the robot*
+Minimal operator overhead: start/stop + round trigger.
+Easy for non-technical facilitators: the “game rules” are the interface.
 
 ## Additional Links
 *For example, you can provide links to:*
