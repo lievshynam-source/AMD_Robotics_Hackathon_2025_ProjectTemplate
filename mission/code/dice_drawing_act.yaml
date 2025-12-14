@@ -1,0 +1,31 @@
+dataset:
+  repo_id: afondiel/so101_dice_drawing      # Your new dataset
+  revision: 3.0                       # Matches info.json
+  streaming: false
+
+policy:
+  type: act
+  chunk_size: 75                           # Drawing needs smooth motion
+  n_action_steps: 75
+  dim_model: 768                           # Bigger for 3-cam fusion
+  n_encoder_layers: 6                      # Deeper reasoning
+  vision_backbone: resnet18                # Better than resnet18
+  pretrained_backbone_weights: IMAGENET1K_V1  # ← FIXED: Correct weights
+  kl_weight: 5.0                           # Stable VAE
+  dropout: 0.15                            # Prevent overfitting
+  
+steps: 5000                              # 60 eps * 250 steps/ep = solid training
+batch_size: 96                            # MI300X optimized
+eval_freq: 5000
+save_freq: 5000
+output_dir: outputs/train/dice_drawing_act_5k
+job_name: act_so101_dice_drawing_5k
+
+optimizer:
+  lr: 8e-06                               # Conservative for precision
+  grad_clip_norm: 5.0                     # Drawing precision
+
+wandb:
+  enable: true
+  project: lerobot
+  notes: "Dice face → vertical bars | 3 cams | 60 episodes"
