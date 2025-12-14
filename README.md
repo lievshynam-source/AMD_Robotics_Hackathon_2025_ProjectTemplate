@@ -15,9 +15,9 @@ Team name T-800
 
 *< [Images or video demonstrating your project](https://drive.google.com/file/d/1CRgT-3jYfOybKNrcDjm-S0Md_wfhv_Qg/view?usp=sharing) >*
 
-Model Training Report _ lerobot – Weights & Biases
+
 ## Demo Video
-▶️ [Watch the demo video on Google Drive](https://drive.google.com/file/d/1gFGvjC5VohZ0bA_6cgPaK4qaGTyjatr2/view)
+▶️ [Model Training Report _ lerobot – Weights & Biases](https://drive.google.com/file/d/1gFGvjC5VohZ0bA_6cgPaK4qaGTyjatr2/view)
 
 
 
