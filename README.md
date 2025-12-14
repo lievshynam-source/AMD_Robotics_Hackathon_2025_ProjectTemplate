@@ -14,6 +14,8 @@ Team name T-800
 **Summary:** *An interactive human–robot creative game for children who struggle with social interaction (autism, social anxiety, introversion). Instead of competitive gameplay or screens, the robot becomes a calm, predictable play partner that supports turn-taking and shared attention through drawing. The human and robot roll a physical dice and draw shapes on a shared space, creating a simple, safe, and engaging interaction. This approach can be applied in therapeutic settings, hospitals, schools, or at home as a low-cost, accessible support for social development.*
 
 *< [Images or video demonstrating your project](https://drive.google.com/file/d/1CRgT-3jYfOybKNrcDjm-S0Md_wfhv_Qg/view?usp=sharing) >*
+*< [Images or video demonstrating your project](https://drive.google.com/file/d/1CRgT-3jYfOybKNrcDjm-S0Md_wfhv_Qg/view?usp=sharing](https://drive.google.com/file/d/1EO2ClVT3N-GyZH1bbc3Ir4WiWl38rIl7/view?usp=sharing) >*
+
 
 ## Submission Details
 ![IMG_4272](https://github.com/user-attachments/assets/2dd2c068-74ea-4fbf-8627-e0ebcddab7cf)
@@ -47,7 +49,14 @@ Through simple co-creative interactions, we investigate how human–robot play c
 - *Inference*
 	•	At inference time, the robot executes the learned drawing behavior in a turn-based loop after each dice roll.
 	•	The system supports repeatable drawing rounds for live human interaction.
-    - *<Image/video of inference eval>*
+
+
+
+
+<img width="549" height="647" alt="Screenshot 2025-12-14 at 14 46 23" src="https://github.com/user-attachments/assets/252ea3d5-dbb9-4b1f-ab47-ef8e5fe10dab" />
+<img width="548" height="719" alt="Screenshot 2025-12-14 at 14 45 58" src="https://github.com/user-attachments/assets/d1104ab4-c154-444c-aeeb-051e605f13a5" />
+<img width="546" height="562" alt="Screenshot 2025-12-14 at 14 45 32" src="https://github.com/user-attachments/assets/b0aac97b-d860-4a88-97ca-fb5e0ba13f01" />
+<img width="551" height="767" alt="Screenshot 2025-12-14 at 14 45 01" src="https://github.com/user-attachments/assets/d92db71a-106b-4d15-b94d-a6624a1577de" />
 
 ### 4. Ease of use
 - *How generalizable is your implementation across tasks or environments?*
