@@ -76,10 +76,8 @@ Easy for non-technical facilitators: the “game rules” are the interface.
 ## Additional Links
 *For example, you can provide links to:*
 
-- *Link to a video of your robot performing the task*
-- *URL of your dataset in Hugging Face*
-- *URL of your model in Hugging Face*
-- *Link to a blog post describing your work*
+- *HF link for dataset: https://huggingface.co/datasets/afondiel/so101_dice_drawing*
+
 
 ## Code submission
 
