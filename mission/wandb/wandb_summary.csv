@@ -1,0 +1,2 @@
+0
+"{'_runtime': 5191.441271692, '_step': 5000, '_timestamp': 1765719348.7304766, '_wandb': {'runtime': 5191}, 'train/dataloading_s': 0.08099426523782313, 'train/episodes': 803.3696895310887, 'train/epochs': 13.389494825518144, 'train/grad_norm': 6.408216471672058, 'train/kld_loss': 0.003243513405323029, 'train/l1_loss': 0.07548067718744278, 'train/loss': 0.09373485308140515, 'train/lr': 1.000000000000002e-05, 'train/samples': 480000, 'train/steps': 5000, 'train/update_s': 0.7779803131474182}"
