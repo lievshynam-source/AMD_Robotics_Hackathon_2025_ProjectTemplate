@@ -4,9 +4,14 @@
 
 ## Team Information
 
-**Team:** Maryna Lievshyna, Afonso Diela, Oliver Fuchs, Joshua Tarabusi 
+**Team:** 21
+Team name T-800 
+- Maryna Lievshyna
+- Afonso Diela
+- Oliver Fuchs
+- Joshua Tarabusi 
 
-**Summary:** *A brief description of your work*
+**Summary:** *An interactive human–robot board game for children who struggle with social interaction (autism, social anxiety, introversion). Instead of competitive gameplay or screens, the robot becomes a calm, predictable play partner that supports turn-taking and shared attention through drawing. The human and robot roll a physical dice and draw shapes on a shared space, creating a simple, safe, and engaging interaction that can be used in therapy, hospitals, schools, and at home.*
 
 *< Images or video demonstrating your project >*
 
