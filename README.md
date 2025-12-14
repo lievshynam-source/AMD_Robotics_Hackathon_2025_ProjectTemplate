@@ -11,24 +11,39 @@ Team name T-800
 - Oliver Fuchs
 - Joshua Tarabusi 
 
-**Summary:** *An interactive human–robot board game for children who struggle with social interaction (autism, social anxiety, introversion). Instead of competitive gameplay or screens, the robot becomes a calm, predictable play partner that supports turn-taking and shared attention through drawing. The human and robot roll a physical dice and draw shapes on a shared space, creating a simple, safe, and engaging interaction that can be used in therapy, hospitals, schools, and at home.*
+**Summary:** *An interactive human–robot creative game for children who struggle with social interaction (autism, social anxiety, introversion). Instead of competitive gameplay or screens, the robot becomes a calm, predictable play partner that supports turn-taking and shared attention through drawing. The human and robot roll a physical dice and draw shapes on a shared space, creating a simple, safe, and engaging interaction. This approach can be applied in therapeutic settings, hospitals, schools, or at home as a low-cost, accessible support for social development.*
 
 *< Images or video demonstrating your project >*
 
 ## Submission Details
 
 ### 1. Mission Description
-- *Real world application of your mission*
+- *Many children struggle with social interaction—not only children with autism or social anxiety, but also introverted children who find peer interaction overwhelming. Instead of being left alone or relying on imaginary friends, our mission explores how a robot can act as a calm, predictable play partner that supports safe social engagement.*
 
 ### 2. Creativity
 - *What is novel or unique in your approach?*
+	•	A co-creative interaction (not a task robot): the robot and child build something together through turn-taking.
+	•	Physical, sensory-friendly medium: brush + ink drawing is softer and more expressive than digital UI.
+	•	Unpredictability by design: real dice makes each round different, keeping the interaction playful and real.
+	•	A demo that is instantly understandable at the table: “roll → robot draws → human draws → shared outcome.
+  
 - *Innovation in design, methodology, or application*
+ •	We treat the robot as a social interaction scaffold (predictable partner), not just an automation tool.
+ •	The interaction is designed for calmness + trust, aligned with therapeutic principles (structure, repetition, safe feedback).
 
 ### 3. Technical implementations
 - *Teleoperation / Dataset capture*
-    - *<Image/video of teleoperation or dataset capture>*
+	•	We calibrated and teleoperated the SO-101 arm to collect demonstrations of drawing strokes.
+	•	We recorded multiple sessions of brush/ink trajectories to capture consistent line behavior.
+	•	Dataset includes: camera observations + robot actions during brush drawing.
+
 - *Training*
+	•	We trained a policy from demonstrations to reproduce brush strokes reliably on paper.
+	•	We iterated on data collection to improve stability and line consistency.
+
 - *Inference*
+	•	At inference time, the robot executes the learned drawing behavior in a turn-based loop after each dice roll.
+	•	The system supports repeatable drawing rounds for live human interaction.
     - *<Image/video of inference eval>*
 
 ### 4. Ease of use
