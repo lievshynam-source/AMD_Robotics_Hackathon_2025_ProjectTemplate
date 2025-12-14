@@ -1,10 +1,10 @@
 **### Make a fork or copy of this repo and fill in your team submission details! ###**
 
-# AMD_Robotics_Hackathon_2025_T-800
+# AMD Robotics Hackathon 2025: A Human-Robot Co-Creative Interaction
 
 ## Team Information
 
-**Team:** Maryna Lievshyna, Afonso Diela, Oliver Fuchs 
+**Team:** Maryna Lievshyna, Afonso Diela, Oliver Fuchs, Joshua Tarabusi 
 
 **Summary:** *A brief description of your work*
 
